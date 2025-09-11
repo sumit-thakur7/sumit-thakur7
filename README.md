@@ -51,7 +51,7 @@ I'm a Full-Stack Developer with **2.4 years** of experience in building scalable
 *Jun 2023 – Jan 2025*  
 - Developed web apps with PHP, Ajax, and MySQL
 - Created custom dashboards, cron jobs, and REST API integrations
-- Implemented PayPal & Zoho CRM for automation
+- Implemented PayPal, Razorpay & Zoho CRM for automation
 
 ---
 
