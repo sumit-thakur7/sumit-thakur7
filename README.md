@@ -35,7 +35,7 @@ I'm a Full-Stack Developer with **2.4 years** of experience in building scalable
 **Frontend:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Material UI, Bootstrap  
 **Backend:** Node.js, PHP, Laravel, Express.js, MySQL, MongoDB  
 **Tools:** Git, GitHub, Postman, Cron Jobs, Redux, REST APIs  
-**CMS & Platforms:** WordPress, Netlify, Vercel
+**CMS & Platforms:**  n8n, WordPress, Netlify, Vercel
 
 ---
 
