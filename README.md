@@ -21,7 +21,7 @@ layout: center
 
 ### 🚀 About Me
 
-I'm a Full-Stack Developer with **2.4 years** of experience in building scalable, responsive web applications and seamless API integrations. I love working on performance-optimized and user-friendly solutions.
+I'm a Full-Stack Developer with **2.6 years** of experience in building scalable, responsive web applications and seamless API integrations. I love working on performance-optimized and user-friendly solutions.
 
 - 🔭 Currently working at **Jurisnexa**
 - 🌱 Learning more about **TypeScript & DevOps**
