@@ -25,7 +25,7 @@ I'm a Full-Stack Developer with **2.9 years** of experience in building scalable
 
 - 🔭 Currently working at **Jurisnexa**
 - 🌱 Learning more about **TypeScript & DevOps**
-- 💬 Ask me about **React, PHP, Node.js, Next.js, MySQL, MongoDB, APIs,PayPal, Razorpay, Webhooks**
+- 💬 Ask me about **React, PHP, Node.js, Next.js, MySQL, MongoDB, APIs, PayPal, Razorpay, Webhooks**
 - 📫 Reach me at: `sumit.thakur0079@gmail.com`
 
 ---
@@ -67,7 +67,7 @@ I'm a Full-Stack Developer with **2.9 years** of experience in building scalable
 > WordPress CMS with plugin for QR code generation for orders.
 
 #### Personal Projects:
-- [Ride IN Bir](https://rideinbir.com/)
+- [Ride In Bir](https://rideinbir.com/)
 - [Drayaan](https://drayaan.netlify.app/)
 - [Bir Billing Holidays](https://birbillingholidays.netlify.app/)
 - [Local Cafe](https://local-cafe-eku.vercel.app/)
